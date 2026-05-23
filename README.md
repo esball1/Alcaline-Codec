@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="public/logo.png" alt="Alcaline Codec" width="128" height="128">
 </p>
 
 <h1 align="center">Alcaline Codec <code>.alc</code></h1>
