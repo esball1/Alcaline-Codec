@@ -20,7 +20,7 @@
 
 ## Overview
 
-**Alcaline Codec (.alc)** is a tile-based lossless image format designed around a single principle: **what you encode is exactly what you decode**. Every tile is independently compressed, checksummed, and verifiable — if one tile corrupts, the rest decode flawlessly.
+**Alcaline Codec (.alc)** is a tile-based lossless image format designed around a single principle: **what you encode is exactly what you decode**. Every tile is independently compressed, checksummed, and verifiable, if one tile corrupts, the rest decode flawlessly.
 
 No hidden metadata. No scripts. No tracking. Just pixels.
 
